@@ -1,2 +1,1 @@
-# Practicas Python
- practicas de python
+## EJERCICIOS DEL CURSO CS50
